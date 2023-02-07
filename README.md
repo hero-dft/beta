@@ -23,8 +23,11 @@ This is a ***Beta Version*** developed mainly based on Atomistic Simulation Libr
 
 ===========================================================================
 
-**Requirements:**  
+**With stable performance**  
+python 3.7.7
+vasp 5.4.4
 
+**Requirements:**  
 atomistic simulation environment (ase)==3.22.1  
 cycler==0.11.0  
 kiwisolver==1.3.1  
