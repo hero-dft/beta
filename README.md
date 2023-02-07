@@ -1,5 +1,4 @@
-# beta
-Welcome to the Hessian Engineering for Atomistic Relaxation Optimization (the ***"HERO"***)
+# Hessian Engineering for Atomistic Relaxation Optimization (***"HERO"***)
 
 Developed by
 ***Hao Li Lab at the Advanced Institute for Materials Reserarch (WPI-AIMR), Tohoku University, Japan***
