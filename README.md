@@ -15,7 +15,7 @@ This is a ***Beta Version*** developed mainly based on Atomistic Simulation Libr
 *Li Lab at the Advanced Institute for Materials Reserarch (WPI-AIMR), Tohoku University, Japan*  
 *Yang Lab at North China Electric Power University (NCEPU), China*  
 
-**Main contributors:**  
+**Main Contributors:**  
 *Mr. Mingzhe Li, NCEPU* (3rd undergraduate student; jointly supervised by Profs. Hao Li and Weijie Yang)    
 *Prof. Hao Zheng, WPI-AIMR*  
 *Prof. Weijie Yang, NCEPU*  
@@ -23,7 +23,7 @@ This is a ***Beta Version*** developed mainly based on Atomistic Simulation Libr
 
 ===========================================================================
 
-**With stable performance**  
+**With stable performance:**  
 python 3.7.7
 vasp 5.4.4
 
