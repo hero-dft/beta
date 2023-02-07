@@ -5,7 +5,9 @@ is a toolkit to accelerate DFT structural optimization by tuning the Hessian inf
 
 This toolkit can accelerate DFT-based structural optimization by reducing the number of force calls, and meanwhile, it maintains a DFT-level accuracy. 
 
-This is a ***Beta Version*** developed mainly based on Atomistic Simulation Library (ASE). **Vienna Ab initio Simulation Package (VASP)** is the recommended calculator for this toolkit. 
+This is a ***Beta Version*** developed mainly based on Atomistic Simulation Library (ASE). 
+
+**Vienna Ab initio Simulation Package (VASP)** is the recommended calculator for this toolkit. 
 
 ===========================================================================
 
@@ -56,7 +58,6 @@ Before you use it for publication, **please ask for the permission** from **Prof
 
 **The Website of the Hao Li Group (Digital Catalysis Lab, DigCat):**  
 https://www.li-lab-cat-design.com/
-
 
 ![image](https://github.com/hero-dft/beta/blob/main/HERO_logo.png)
   
