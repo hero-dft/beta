@@ -5,10 +5,10 @@ Developed by
 **Weijie Yang Lab at North China Electric Power University (NCEPU), China**  
 
 **Main contributors:**  
-*Mingzhe Li, NCEPU* (3rd undergraduate student; jointly supervised by Profs. Hao Li and Weijie Yang)    
-*Hao Zheng, WPI-AIMR*  
-*Weijie Yang, NCEPU*  
-*Hao Li, WPI-AIMR*  
+*Mr. Mingzhe Li, NCEPU* (3rd undergraduate student; jointly supervised by Profs. Hao Li and Weijie Yang)    
+*Prof. Hao Zheng, WPI-AIMR*  
+*Prof. Weijie Yang, NCEPU*  
+*Prof. Hao Li, WPI-AIMR*  
 
 **Requirements:**  
 atomistic simulation environment (ase)==3.22.1  
