@@ -9,7 +9,7 @@ This is a ***Beta Version*** developed mainly based on Atomistic Simulation Libr
 
 ===========================================================================
 
-**Developed by**  
+**Developed by:**  
 *Li Lab at the Advanced Institute for Materials Reserarch (WPI-AIMR), Tohoku University, Japan*  
 *Yang Lab at North China Electric Power University (NCEPU), China*  
 
@@ -22,6 +22,7 @@ This is a ***Beta Version*** developed mainly based on Atomistic Simulation Libr
 ===========================================================================
 
 **Requirements:**  
+
 atomistic simulation environment (ase)==3.22.1  
 cycler==0.11.0  
 kiwisolver==1.3.1  
