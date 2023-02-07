@@ -1,6 +1,7 @@
 # Hessian Engineering for Atomistic Relaxation Optimization (***"HERO"***)
 
 ***HERO*** is a toolkit to accelerate DFT structural optimization by tuning the Hessian information in the Broyden–Fletcher–Goldfarb–Shanno (BFGS) method.   
+
 This toolkit can accelerate DFT-based structural optimization by reducing the number of force calls, and meanwhile, it maintains a DFT-level accuracy. 
 
 Developed by  
@@ -33,7 +34,7 @@ tornado==6.1
 
 We are drafting the paper for HERO for future reference.
 
-**1. Parameters**  
+**Parameters**  
 
 1.1 Constant parameters: Boltzmann constant, temperature, pressure, etc.;
 
