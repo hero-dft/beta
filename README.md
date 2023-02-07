@@ -9,9 +9,9 @@ This is a ***Beta Version*** developed mainly based on Atomistic Simulation Libr
 
 ===========================================================================
 
-Developed by  
-**Li Lab at the Advanced Institute for Materials Reserarch (WPI-AIMR), Tohoku University, Japan**  
-**Yang Lab at North China Electric Power University (NCEPU), China**  
+**Developed by**  
+*Li Lab at the Advanced Institute for Materials Reserarch (WPI-AIMR), Tohoku University, Japan*  
+*Yang Lab at North China Electric Power University (NCEPU), China*  
 
 **Main contributors:**  
 *Mr. Mingzhe Li, NCEPU* (3rd undergraduate student; jointly supervised by Profs. Hao Li and Weijie Yang)    
