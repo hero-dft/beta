@@ -5,7 +5,7 @@ Developed by
 **Weijie Yang Lab at North China Electric Power University (NCEPU), China**  
 
 **Main contributors:**  
-*Mingzhe Li, NCEPU*  
+*Mingzhe Li, NCEPU* (3rd undergraduate student; jointly supervised by Profs. Hao Li and Weijie Yang)    
 *Hao Zheng, WPI-AIMR*  
 *Weijie Yang, NCEPU*  
 *Hao Li, WPI-AIMR*  
@@ -24,9 +24,9 @@ scipy==1.5.4
 six==1.16.0  
 tornado==6.1  
 
-***Important notes:*** Before you use it for publication, **please ask for the permission** from **Prof. Hao Li (Email: li.hao.b8@tohoku.ac.jp)**
+***Important notes:***  Before you use it for publication, **please ask for the permission** from **Prof. Hao Li (Email: li.hao.b8@tohoku.ac.jp)**
 
-**The Website of the Hao Li Group (Digital Catalysis Lab, DigCat): https://www.li-lab-cat-design.com/**
+**The Website of the Hao Li Group (Digital Catalysis Lab, DigCat):  https://www.li-lab-cat-design.com/**
 
 We are drafting the paper for HERO for future reference.
 
