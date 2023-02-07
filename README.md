@@ -10,6 +10,20 @@ Developed by
 *Weijie Yang, NCEPU*  
 *Hao Li, WPI-AIMR*  
 
+**Requirements:** 
+atomistic simulation environment (ase)==3.22.1  
+cycler==0.11.0  
+kiwisolver==1.3.1  
+matplotlib==3.3.4  
+numpy==1.19.5  
+pandas==1.1.5  
+Pillow==8.4.0  
+pyparsing==3.0.9  
+python-dateutil==2.8.2  
+scipy==1.5.4  
+six==1.16.0  
+tornado==6.1  
+
 ***Important notes:*** Before you use it for publication, **please ask for the permission** from **Prof. Hao Li (Email: li.hao.b8@tohoku.ac.jp)**
 
 **The Website of the Hao Li Group (Digital Catalysis Lab, DigCat): https://www.li-lab-cat-design.com/**
