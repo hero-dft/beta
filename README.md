@@ -5,9 +5,11 @@ is a toolkit to accelerate DFT structural optimization by tuning the Hessian inf
 
 This toolkit can accelerate DFT-based structural optimization by reducing the number of force calls, and meanwhile, it maintains a DFT-level accuracy. 
 
+This is a ***Beta Version*** developed mainly based on Atomistic Simulation Library (ASE). **Vienna Ab initio Simulation Package (VASP)** is the recommended calculator for this toolkit. 
+
 Developed by  
-**Hao Li Lab at the Advanced Institute for Materials Reserarch (WPI-AIMR), Tohoku University, Japan**  
-**Weijie Yang Lab at North China Electric Power University (NCEPU), China**  
+**Li Lab at the Advanced Institute for Materials Reserarch (WPI-AIMR), Tohoku University, Japan**  
+**Yang Lab at North China Electric Power University (NCEPU), China**  
 
 **Main contributors:**  
 *Mr. Mingzhe Li, NCEPU* (3rd undergraduate student; jointly supervised by Profs. Hao Li and Weijie Yang)    
@@ -29,9 +31,11 @@ scipy==1.5.4
 six==1.16.0  
 tornado==6.1  
 
-***Important notes:***  Before you use it for publication, **please ask for the permission** from **Prof. Hao Li (Email: li.hao.b8@tohoku.ac.jp)**
+***Important notes:***  
+Before you use it for publication, **please ask for the permission** from **Prof. Hao Li (Email: li.hao.b8@tohoku.ac.jp)**
 
-**The Website of the Hao Li Group (Digital Catalysis Lab, DigCat):  https://www.li-lab-cat-design.com/**
+**The Website of the Hao Li Group (Digital Catalysis Lab, DigCat): 
+https://www.li-lab-cat-design.com/**
 
 We are drafting the paper for HERO for future reference.
 
