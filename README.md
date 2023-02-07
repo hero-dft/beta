@@ -23,5 +23,5 @@ We are drafting the paper for HERO for future reference.
 1.1 Constant parameters: Boltzmann constant, temperature, pressure, etc.;
 
 
-![image](https://github.com/hero-dft/beta/HERO_logo.png)
+![image](https://github.com/hero-dft/beta/blob/main/HERO_logo.png)
   
