@@ -10,7 +10,7 @@ Developed by
 *Weijie Yang, NCEPU*  
 *Hao Li, WPI-AIMR*  
 
-**Requirements:** 
+**Requirements:**  
 atomistic simulation environment (ase)==3.22.1  
 cycler==0.11.0  
 kiwisolver==1.3.1  
