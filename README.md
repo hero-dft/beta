@@ -24,7 +24,7 @@ This is a ***Beta Version*** developed mainly based on Atomistic Simulation Libr
 ===========================================================================
 
 **With stable performance:**  
-python 3.7.7
+python 3.7.7  
 vasp 5.4.4
 
 **Requirements:**  
