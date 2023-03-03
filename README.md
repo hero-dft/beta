@@ -57,10 +57,13 @@ Defines the percentage of atoms to be tuned in the Hessian matrix in the "Hessia
 ===========================================================================
 
 ***Important notes:***  
-Before you use it for publication, **please ask for the permission** from **Prof. Hao Li (Email: li.hao.b8@tohoku.ac.jp)**
+Before you use it for publication, **please ask for the permission** from **Prof. Hao Li (Email: li.hao.b8@tohoku.ac.jp)** or **Prof. Weijie Yang (Email: yangwj@ncepu.edu.cn)**
 
 **The Website of the Hao Li Group (Digital Catalysis Lab, DigCat):**  
 https://www.li-lab-cat-design.com/
+
+**The Website of the Yang Group (NCEPU):**  
+http://www.eesgroup-ncepu.cn/
 
 ![image](https://github.com/hero-dft/beta/blob/main/HERO_logo.png)
   
