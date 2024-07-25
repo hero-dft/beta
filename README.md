@@ -13,6 +13,7 @@ This is a ***Beta Version*** developed mainly based on Atomistic Simulation Libr
 
 **Developed by:**  
 *Hao Li Lab at the Advanced Institute for Materials Reserarch (WPI-AIMR), Tohoku University, Japan*  
+*Dr. Di Zhang at the Advanced Institute for Materials Reserarch (WPI-AIMR), Tohoku University, Japan*  
 *Yang Lab at North China Electric Power University (NCEPU), China*  
 
 **Main Contributors:**  
